@@ -155,6 +155,7 @@ TFT는 다음과 같은 특징을 가집니다:
 ---
 
 ## 📂 Repository Structure
+```bash
 아쿠아리움/
 │
 ├─ README.md
