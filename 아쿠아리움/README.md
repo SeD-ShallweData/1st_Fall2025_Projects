@@ -162,7 +162,7 @@ TFT는 다음과 같은 특징을 가집니다:
 ├─ 아쿠아리움_팀_보고서.pdf
 ├─ notebooks/
 │ ├─ 01_TFT.ipynb
-| ├─ 02_adjustmemt.ipynb
+│ ├─ 02_adjustmemt.ipynb
 │ ├─ 03_adjustment_2.ipynb
 │
 ├─ results/
