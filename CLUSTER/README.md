@@ -89,5 +89,5 @@ $$LDI = 0.30 \times Buzz + 0.25 \times Focus + 0.25 \times Depth + 0.20 \times S
 * **📎 첨부 자료:** [`경진대회 제출 보고서.docx`](./경진대회 제출 보고서.docx), [`Clustr.pdf`](./Clustr.pdf)
 
 ### 📂 핵심 대시보드 및 시각화 결과
-* *(여기에 부록 D의 웹 대시보드 화면 캡처 이미지 경로를 삽입하세요.)*
-* *(여기에 부록 C의 LDI 지수 분포 박스플롯 이미지 경로를 삽입하세요.)*
+* *![대시보드 메인 화면](./images/figure9.png)*
+* *![LDI 지수 분포 박스플롯](./images/figure10.png)*
